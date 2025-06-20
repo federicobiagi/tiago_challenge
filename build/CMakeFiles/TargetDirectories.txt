@@ -1,0 +1,11 @@
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/uninstall.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/tiago_challenge_uninstall.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/motion_planning_lib.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/tiago_jenga.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/test.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/edit_cache.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/rebuild_cache.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/list_install_components.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/install.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/install/local.dir
+/home/feder/sahri_ws/src/tiago_challenge/build/CMakeFiles/install/strip.dir

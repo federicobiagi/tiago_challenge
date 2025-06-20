@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmotion_planning_lib.a CMakeFiles/motion_planning_lib.dir/src/RobotTaskStatus.cpp.o CMakeFiles/motion_planning_lib.dir/src/Motionplanning_arms.cpp.o
+/usr/bin/ranlib libmotion_planning_lib.a
