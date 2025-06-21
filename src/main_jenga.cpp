@@ -79,7 +79,6 @@ int main(int argc, char ** argv)
   //Comment if it creates a problem  
   planning_scene_publisher_->publish(planning_scene_msg);
 
-    // Initialize variables for the Jenga task
     float table_height = 0.53; // Height of the table
     int current_layer = 0;
     int current_block_in_layer = 0; 
