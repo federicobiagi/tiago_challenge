@@ -105,7 +105,7 @@ int main(int argc, char ** argv)
           pick_up_pose.position.y = -0.050535;
           pick_up_pose.position.z = 0.93268; 
           tf2::Quaternion original_quat;
-          original_quat.setRPY(0.0, 1.57, 0.0); // Roll, Pitch, Yaw in radians
+          original_quat.setRPY(0.0, 1.57, 0.0); 
           pick_up_pose.orientation.x = original_quat.x();
           pick_up_pose.orientation.y = original_quat.y();
           pick_up_pose.orientation.z = original_quat.z();
