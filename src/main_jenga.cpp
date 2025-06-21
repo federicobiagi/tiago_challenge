@@ -79,7 +79,7 @@ int main(int argc, char ** argv)
   //Comment if it creates a problem  
   planning_scene_publisher_->publish(planning_scene_msg);
 
-    float table_height = 0.53; // Height of the table
+    float table_height = 0.53;
     int current_layer = 0;
     int current_block_in_layer = 0; 
     int max_layers = 8;
