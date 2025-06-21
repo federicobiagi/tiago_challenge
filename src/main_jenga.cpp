@@ -82,7 +82,7 @@ int main(int argc, char ** argv)
     float table_height = 0.53;
     int current_layer = 0;
     int current_block_in_layer = 0; 
-    int max_layers = 8;
+    int max_layers = 70;
     int blocks_per_layer = 2;
     double x_target = 0.64829;
     double y_target = -0.050535;
